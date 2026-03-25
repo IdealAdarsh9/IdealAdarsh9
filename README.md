@@ -88,14 +88,6 @@ class AdarshSingh:
 
 ---
 
-## 🔥 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-singh&bg_color=0d1117&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true" />
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Let's connect and build something intelligent together!
